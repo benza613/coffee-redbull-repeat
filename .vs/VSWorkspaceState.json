@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\api\\TemperatureFunction",
+    "\\api\\TemperatureFunction\\src",
+    "\\api\\TemperatureFunction\\src\\TemperatureFunction",
+    "\\api\\TemperatureFunction\\test",
+    "\\api\\TemperatureFunction\\test\\TemperatureFunction.Tests"
+  ],
+  "SelectedNode": "\\api\\TemperatureFunction\\src\\TemperatureFunction\\TemperatureFunction.csproj",
+  "PreviewInSolutionExplorer": false
+}

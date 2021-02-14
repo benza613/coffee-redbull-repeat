@@ -1,13 +1,12 @@
 # coffee-redbull-repeat
 Modern webapp built in dotnet core &amp; angular powered by AWS Lambda, EC2, API Gateway &amp; DynamoDB 
 
-
 ## Current Status 
 
 Still in local Development. Will setup dotnet backend next
 https://dev.daaqa8qkimtgf.amplifyapp.com/
 
-<br/><br/>
+<br/>
 
 ## Current Structure 
 
@@ -26,19 +25,17 @@ https://dev.daaqa8qkimtgf.amplifyapp.com/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|   
 **AWS Budget Tracker** -- setup to alert at 35/40$ thresholds
 
-<br/><br/>
+<br/>
 
 ## Postman Documentation 
 
 Dev Test Collection   
 https://documenter.getpostman.com/view/11971818/TWDRtfMR
-
 <br/>
 
 ## Why ?
 
 Did not sleep at night. Drank coffee in the morning. Redbull in the afternoon. Decided to visit the "clouds" in the evening. **SORRY** :V 
-
 <br/>
 
 ## Remarks 
